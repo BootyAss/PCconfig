@@ -43,21 +43,21 @@
 
 # RAM
 
-- [Kingston Fury Beast 2x8 @3.6 C1](https://www.e-katalog.ru/KINGSTON-FURY-KF436C17BBK2-16.htm) - **6-7K**
-- [Kingston Fury Renegade 2x16 @3.6 C2](https://www.e-katalog.ru/KINGSTON-FURY-KF436C16RB1AK2-32.htm) - **14-16K**
-- [Kingston Fury Renegade 2x8 @4.6 C1](https://www.e-katalog.ru/KINGSTON-FURY-KF446C19RBAK2-16.htm) - **16-18K**
-- [Kingston Fury Renegade 2x16 @4.0 C2](https://www.e-katalog.ru/KINGSTON-FURY-KF440C19RB1K2-32.htm) - **18-20K**
+- [Kingston Fury Beast](https://www.e-katalog.ru/KINGSTON-FURY-KF436C17BBK2-16.htm) 2x8 @3.6 C1 - **6-7K**
+- [Kingston Fury Renegade](https://www.e-katalog.ru/KINGSTON-FURY-KF436C16RB1AK2-32.htm) 2x16 @3.6 C2 - **14-16K**
+- [Kingston Fury Renegade](https://www.e-katalog.ru/KINGSTON-FURY-KF446C19RBAK2-16.htm) 2x8 @4.6 C1 - **16-18K**
+- [Kingston Fury Renegade](https://www.e-katalog.ru/KINGSTON-FURY-KF440C19RB1K2-32.htm) 2x16 @4.0 C2 - **18-20K**
 
 # SSD
 
-- [Samsung 980 500Gb 3.1:2.6](https://www.e-katalog.ru/SAMSUNG-MZ-V8V500BW.htm) - **7-8K**
-- [Samsung 980 PRO 500Gb 6.9:5](https://www.e-katalog.ru/SAMSUNG-MZ-V8P500BW.htm) - **10-11K**
-- [Samsung 980 1000Gb 3.5:3](https://www.e-katalog.ru/SAMSUNG-MZ-V8V1T0BW.htm) - **10-11K**
-- [Samsung 980 PRO 1000Gb 7:5](https://www.e-katalog.ru/SAMSUNG-MZ-V8P1T0BW.htm) - **16-18K**
+- [Samsung 980](https://www.e-katalog.ru/SAMSUNG-MZ-V8V500BW.htm) 500Gb 3.1:2.6 - **7-8K**
+- [Samsung 980 PRO](https://www.e-katalog.ru/SAMSUNG-MZ-V8P500BW.htm) 500Gb 6.9:5 - **10-11K**
+- [Samsung 980](https://www.e-katalog.ru/SAMSUNG-MZ-V8V1T0BW.htm) 1000Gb 3.5:3 - **10-11K**
+- [Samsung 980 PRO5](https://www.e-katalog.ru/SAMSUNG-MZ-V8P1T0BW.htm) 1000Gb 7: - **16-18K**
 
 # HDD
 
-- [Seagate Barracuda 2000Gb 7200rpm](https://hardprice.ru/290048-zhestkiy-disk-2tb-seagate-barracuda-st2000dm008) - **4K**
+- [Seagate Barracuda](https://hardprice.ru/290048-zhestkiy-disk-2tb-seagate-barracuda-st2000dm008) 2000Gb 7200rpm - **4K**
 
 # Case
 
@@ -69,13 +69,13 @@
 
 # CPU Fan
 
-- [BeQuiet DarkRock4 200Vt 21dB](https://hardprice.ru/288194-kuler-be-quiet-dark-rock-4-bk021) - **6K**
-- [BeQuiet DarkRock4 250Vt 24dB](https://hardprice.ru/660381-kuler-be-quiet-dark-rock-pro-4-bk022) - **8K**
+- [BeQuiet DarkRock4](https://hardprice.ru/288194-kuler-be-quiet-dark-rock-4-bk021) 200Vt 21dB - **6K**
+- [BeQuiet DarkRock4](https://hardprice.ru/660381-kuler-be-quiet-dark-rock-pro-4-bk022) 250Vt 24dB - **8K**
 
 # PSU
 
-- [Bequiet SystemPower9 500Vt](https://www.e-katalog.ru/BE-QUIET-BN246.htm) - **4K**
-- [Chieftec Core 700Vt](https://www.e-katalog.ru/CHIEFTEC-BBS-700S.htm) - **5-6K**
+- [Bequiet SystemPower9](https://www.e-katalog.ru/BE-QUIET-BN246.htm) 500Vt - **4K**
+- [Chieftec Core](https://www.e-katalog.ru/CHIEFTEC-BBS-700S.htm) 700Vt - **5-6K**
 
 ### Builds
 
